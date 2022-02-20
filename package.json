@@ -1,0 +1,15 @@
+{
+  "name": "@gensha256/testgit",
+  "version": "0.0.1",
+  "description": "Test for git CLI",
+  "main": "index.js",
+  "scripts": {
+    "i": "npm install",
+    "start": "node index.js"
+  },
+  "author": "gensha256",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.3"
+  }
+}
